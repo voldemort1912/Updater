@@ -1,4 +1,5 @@
 <?php
+//This is a Line added to see if it updates!!
 
 $glo_ver = file_get_contents('https://raw.githubusercontent.com/VoldemortCommunity/SpotifyChecker/master/.version');
 $loc_ver = file_get_contents('.version');
